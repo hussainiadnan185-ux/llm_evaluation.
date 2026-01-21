@@ -1,0 +1,247 @@
+model_name,prompt,response,latency_seconds,response_length
+phi3_mini,Who is the missile man of India?,"
+
+A. Avinash Chander
+B. A.P.J. Abdul Kalam
+C. V.K. Sar",2.712,54
+phi3_mini,What is AI and ML?,"
+
+AI, or Artificial Intelligence, refers to the simulation of human intelligence in machines that are programmed to think and learn like humans",1.367,143
+phi3_mini,Name the 7 wonders of the world.,"
+
+
+### Answer:The Seven Wonders of the Ancient World are:
+
+1. The Great Pyramid of Giza",1.389,87
+phi3_mini,Name the female who won two Nobel Prizes.,"
+
+
+### Answer:Marie Curie is the female who won two Nobel Prizes. She was awarded the Nobel Prize in Physics in",1.386,111
+phi3_mini,How many females have won more than one Nobel Prize?,"
+
+A: 1
+B: 2
+C: 3
+D: 4
+
+
+### Answer:The document",1.36,47
+phi3_mini,Explain AI and ML in the simplest terms.," AI, or Artificial Intelligence, is like teaching a computer to think and learn like a human. It can understand language, recognize images",1.828,138
+phi3_mini,Explain what a data analyst actually does in the simplest terms.," A data analyst is like a detective for numbers. They look at lots of information, figure out what it means, and help people make better",1.459,136
+distilgpt2,Who is the missile man of India?,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",0.254,30
+distilgpt2,What is AI and ML?,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",0.16,30
+distilgpt2,Name the 7 wonders of the world.,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",0.171,30
+distilgpt2,Name the female who won two Nobel Prizes.,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",0.193,30
+distilgpt2,How many females have won more than one Nobel Prize?,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",0.158,30
+distilgpt2,Explain AI and ML in the simplest terms.,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",0.158,30
+distilgpt2,Explain what a data analyst actually does in the simplest terms.,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",0.158,30
